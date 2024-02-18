@@ -1,0 +1,5 @@
+0 trucks
+1 cars
+2 motor bikes
+3 three wheels
+4 bicycles
